@@ -97,7 +97,7 @@ export const data={
         }
     ],
 
-    "Apparel & Fashion": [
+    "Apparel and Fashion": [
         {
             "Job Name": "SDE5",
             "Sector Name": "Apparel & Fashion",
