@@ -8,7 +8,7 @@ import { toast } from "sonner";
 const JobsCard = ({data, savePlan}:{data:any, savePlan:(data:any)=>void})=>{
     return(
         <div className="w-full border rounded-xl  bg-white dark:bg-blue-900 hover:shadow-2xl transition-all cursor-pointer">
-            <div className="min-h-[140] border-b flex flex-col justify-center p-3 bg-blue-100 rounded-t-xl">
+            <div className="min-h-[140] border-b flex flex-col justify-center p-3 bg-blue-100 rounded-t-xl text-black">
                 <h1 className="text-xl font-bold italic">{data["Job Name"]}</h1>
                 <p className="text-md text-slate-600 font-medium">{data["Job Description"]}</p>
             </div>

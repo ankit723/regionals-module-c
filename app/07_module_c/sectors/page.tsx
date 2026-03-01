@@ -8,7 +8,7 @@ const SectorsCard = ({data}:{data:string})=>{
     return(
         <div className="w-full border rounded-xl  bg-white dark:bg-blue-900 hover:shadow-2xl transition-all cursor-pointer">
             <div className="min-h-[140] border-b flex flex-col justify-center items-center bg-blue-100 rounded-t-xl">
-                <h1 className="text-xl font-bold italic">{data}</h1>
+                <h1 className="text-xl font-bold italic text-black">{data}</h1>
             </div>
             <div className=" w-full py-4 min-h-[50] rounded-b-2xl flex flex-col gap-5 justify-center px-2">
                 <Button variant={"default"} size={"lg"}><Link href={`/07_module_c/jobs/${data}`}>View Jobs</Link></Button>
