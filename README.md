@@ -4,3 +4,6 @@ The project the Sectors page and the Jobs Page along with my plans page which ca
 
 
 The Github link is https://github.com/ankit723/regionals-module-c
+
+
+the Project the can be runned locally using running npm i in in the root of the terminal and after the procees is done in the same place run npm run dev
