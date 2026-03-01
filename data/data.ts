@@ -3,21 +3,21 @@ export const data={
 
     "Information and Technology": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE1",
             "Sector Name": "Information and Technology",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE2",
             "Sector Name": "Information and Technology",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE3",
             "Sector Name": "Information and Technology",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
@@ -27,21 +27,21 @@ export const data={
 
     "Contruction": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE4",
             "Sector Name": "Contruction",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE5",
             "Sector Name": "Contruction",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE5",
             "Sector Name": "Contruction",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
@@ -51,21 +51,21 @@ export const data={
 
     "Tourism and Hospitality": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE6",
             "Sector Name": "Tourism and Hospitality",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE7",
             "Sector Name": "Tourism and Hospitality",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SD8E",
             "Sector Name": "Tourism and Hospitality",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
@@ -75,21 +75,21 @@ export const data={
 
     "Media and Entertainment": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE456",
             "Sector Name": "Media and Entertainment",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE546",
             "Sector Name": "Media and Entertainment",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE7",
             "Sector Name": "Media and Entertainment",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
@@ -99,21 +99,21 @@ export const data={
 
     "Apparel & Fashion": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE5",
             "Sector Name": "Apparel & Fashion",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE7",
             "Sector Name": "Apparel & Fashion",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE54",
             "Sector Name": "Apparel & Fashion",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
@@ -123,21 +123,21 @@ export const data={
 
     "Health Care": [
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE56",
             "Sector Name": "Health Care",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SD654E",
             "Sector Name": "Health Care",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
             "Minimum Requiremnets": ["60% aggregate in 12th", "B.Tech Student"]
         },
         {
-            "Job Name": "SDE",
+            "Job Name": "SDE64",
             "Sector Name": "Health Care",
             "Job Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit non neque saepe eaque blanditiis corporis tempora aut! Reprehenderit aut nemo alias perspiciatis nesciunt!",
             "Duration": "5 Months",
