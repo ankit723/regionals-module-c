@@ -14,12 +14,12 @@ export default function Home() {
   }, [])
 
   return (
-    <>
+    <div className="absolute z-50">
       <div className="flex flex-col justify-center items-center overflow-hidden h-[85vh]">
         <Image src={"/media-files/skillconnect-logo.png"} width={450} height={450} alt="Logo Image" className="transition-all"/>
         <Spinner className="size-10"/>
       </div>
-    </>
+    </div>
   )
   
 }

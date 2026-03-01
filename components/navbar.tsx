@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="w-screen sticky bottom-0 mt-6 bg-white dark:bg-blue-900 shadow-2xl py-3.5 rounded-t-3xl">
       <div className="flex justify-between items-center mx-5 my-3">
-        <Link href={"/home"} className="flex items-center gap-2">
+        <Link href={"/07_module_c"} className="flex items-center gap-2">
           {" "}
           <Image
             src={"/media-files/icon_home.svg"}
@@ -17,7 +17,7 @@ const Navbar = () => {
           />
           Home
         </Link>
-        <Link href={"/sector"} className="flex items-center gap-2">
+        <Link href={"/07_module_c/sectors"} className="flex items-center gap-2">
           {" "}
           <Image
             src={"/media-files/icon_sectors.png"}
@@ -28,7 +28,7 @@ const Navbar = () => {
           />
           Sectors
         </Link>
-        <Link href={"/settings"} className="flex items-center gap-2">
+        <Link href={"/07_module_c/settings"} className="flex items-center gap-2">
           {" "}
           <Image
             src={"/media-files/icon_settings.png"}
